@@ -1,8 +1,7 @@
 ####Hi there 👋, I'm Fahad
 
-APP DEVELOPER
+MOBILE APP DEVELOPER(FLUTTER)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: JAVA/FLUTTER/DART/ANDROID/HTML
 
